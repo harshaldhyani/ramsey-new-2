@@ -1368,7 +1368,7 @@ a.brand:focus{
   position: relative;
   white-space:nowrap;
   padding:3.75rem;
-  border:1px solid #fff;
+  border:1px solid #000000;
 }
 
 .experience-border{
@@ -1394,14 +1394,14 @@ a.brand:focus{
   font-size:23.142rem;
   line-height: 1;
   font-weight:400;
-  color: #fff;
+  color: #000000;
 }
 
 .experience-info{
   position:relative;
   font-size: 1.25rem;
   line-height: 1.481;
-  color: #fff;
+  color: #000000;
   text-align: right;
 }
 
@@ -1423,7 +1423,7 @@ a.brand:focus{
   width:5rem;
   bottom: 0.8rem;
   height:1px;
-  background: #fff;
+  background: #000000;
 }
 
 .progress-bars{
